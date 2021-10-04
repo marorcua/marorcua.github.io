@@ -1,16 +1,16 @@
-#Github Pages portfolio
+# Github Pages portfolio
 
 [TOC]
 
 ##General Info
 This project's aim is to display my portfolio in Github Pages
 
-##Directory
+## Directory
 /assets
 /images
 html
 
-##Sources
+## Sources
 * html5up
 * unsplash
 * youtube
