@@ -1,8 +1,8 @@
-# Github Pages portfolio
-
 [TOC]
 
-##General Info
+# Github Pages portfolio
+
+## General Info
 This project's aim is to display my portfolio in Github Pages
 
 ## Directory
