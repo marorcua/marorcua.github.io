@@ -2700,6 +2700,7 @@ input[type="button"]:disabled,
 
 .spotlight .overflow {
   overflow: auto;
+  padding: 3em 3em !important;
 }
 
 .spotlight .goto-next {
